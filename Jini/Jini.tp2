@@ -36,6 +36,7 @@ README ~Jini/Readme-Jini.txt~
 AUTO_TRA ~Jini/Languages/%s~
 LANGUAGE ~English~ ~English~ ~Jini/Languages/English/setup.tra~
 LANGUAGE ~Russian (by Jericho2)~ ~Russian~ ~Jini/Languages/Russian/setup.tra~
+LANGUAGE ~Chinese~ ~SChinese~ ~Jini/Languages/SChinese/setup.tra~
 
 // This is the main event
 
